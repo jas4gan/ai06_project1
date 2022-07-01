@@ -3,6 +3,7 @@
  1. You are going to predict whether a patient has heart disease or not
 
  2. LINK to the dataset 
+ 
       https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
  3. Criteria :
